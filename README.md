@@ -1,14 +1,14 @@
-Playwright E2E Automation Framework
-Overview
+**Playwright E2E Automation Framework**
+**Overview**
 
 This repository demonstrates a production-style Playwright end-to-end automation framework validating a complete e-commerce user journey:
 Login → Add Products → Checkout → Logout.
 
 The focus is on stability, maintainability, and reporting, reflecting real-world QA automation practices.
 
-Key Practices
+**Key Practices**
 
-Playwright Test with TypeScript
+**Playwright Test with TypeScript**
 
 Page Object Model (POM)
 
@@ -24,7 +24,7 @@ Playwright
 
 TypeScript
 
-Allure Reports
+**Allure Reports**
 
 Node.js / npm
 
@@ -39,7 +39,7 @@ npx playwright install
 npx playwright test
 
 
-Headed mode:
+**Headed mode:**
 
 npx playwright test --headed
 
@@ -53,11 +53,6 @@ https://www.demoblaze.com
 
 (Public demo site used to simulate real-world application instability)
 
-References
-
-Execution Video: <add-link>
-
-Allure Report: <add-link>
 
 Summary
 
